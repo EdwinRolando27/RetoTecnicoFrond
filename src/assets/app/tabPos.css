@@ -1,0 +1,21 @@
+.RRT__panel {
+    background-color: azure;
+}
+
+.activeCardPos {
+    border: 1px solid black;
+    border-radius: 24px;
+}
+
+.activeDesc {
+    background-color: goldenrod;
+    color: white;
+}
+
+.disabledDesc {
+    color: black;
+}
+
+.app-footer__inner {
+    /*margin: 0 !important;*/
+}

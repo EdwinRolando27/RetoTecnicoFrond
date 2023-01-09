@@ -1,0 +1,10 @@
+.rbc-toolbar-label{
+    display: none;
+}
+.rbc-btn-group .rbc-active{
+    display:none;
+}
+
+.rbc-row-content{
+    display:none;
+}

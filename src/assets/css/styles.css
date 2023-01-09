@@ -1,0 +1,8 @@
+.rbc-toolbar{
+    display: none;
+}
+
+.rbc-time-view .rbc-row {
+    box-sizing: border-box;
+    min-height: auto;
+}
